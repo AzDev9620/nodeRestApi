@@ -18,15 +18,16 @@ Bismillahi Rohmani Rohim
 
 
 
-|.env: {
-    | DB_URL=mongodb+srv://nodetest:HvPI0EFj97mkMZkz@cluster0.jmosj.mongodb.net/test |
-    | PORT=5000 |
-    | JWT_ACCESS_SECRET=SecreKey2213 |
-    | JWT_REFRESH_SECRET=SercretRefres25665 |
-    | SMTP_HOST=smtp.gmail.com |
-    | SMTP_PORT=587 |
-    | SMTP_USER=theo.projects123@gmail.com |
-    | SMTP_PASSWORD=nfkvkfceucescqzd |
-    | API_URL=http://localhost:5000 |
-    | CLIENT_URL=http://localhost:3000 |
-|}
+<pre>
+.env: {
+     DB_URL=mongodb+srv://nodetest:HvPI0EFj97mkMZkz@cluster0.jmosj.mongodb.net/test 
+     PORT=5000 
+     JWT_ACCESS_SECRET=SecreKey2213 
+     JWT_REFRESH_SECRET=SercretRefres25665 
+     SMTP_HOST=smtp.gmail.com 
+     SMTP_PORT=587 
+     SMTP_USER=theo.projects123@gmail.com 
+     SMTP_PASSWORD=nfkvkfceucescqzd 
+     API_URL=http://localhost:5000 
+     CLIENT_URL=http://localhost:3000 
+}</pre>
